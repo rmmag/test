@@ -1,3 +1,3 @@
 # test
 test descriptio ...
-add fro local
+add from local
